@@ -23,4 +23,28 @@
 			<ymax>61</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>olives</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>18</ymin>
+			<xmax>39</xmax>
+			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>olives</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>19</ymin>
+			<xmax>55</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -23,4 +23,28 @@
 			<ymax>57</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>38</ymin>
+			<xmax>40</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>33</ymin>
+			<xmax>27</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -23,4 +23,16 @@
 			<ymax>64</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>pepperoni</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>27</ymin>
+			<xmax>64</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
 </annotation>
