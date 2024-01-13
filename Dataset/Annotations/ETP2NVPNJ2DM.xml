@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>ETP2NVPNJ2DM.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\3\ETP2NVPNJ2DM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>36</ymin>
+			<xmax>397</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

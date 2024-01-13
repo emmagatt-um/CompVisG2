@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>X62N8AWVNVRQ.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\5\X62N8AWVNVRQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>99</ymin>
+			<xmax>506</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>05EO3B1ATFVV.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\2\05EO3B1ATFVV.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>70</ymin>
+			<xmax>326</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

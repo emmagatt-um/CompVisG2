@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>53UYSPVI5VDR.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\4\53UYSPVI5VDR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>134</ymin>
+			<xmax>493</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

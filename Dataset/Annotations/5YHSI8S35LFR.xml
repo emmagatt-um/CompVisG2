@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>5YHSI8S35LFR.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\4\5YHSI8S35LFR.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>88</ymin>
+			<xmax>431</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

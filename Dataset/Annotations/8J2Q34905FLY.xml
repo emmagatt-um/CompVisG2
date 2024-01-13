@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>8J2Q34905FLY.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\2\8J2Q34905FLY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>66</ymin>
+			<xmax>512</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

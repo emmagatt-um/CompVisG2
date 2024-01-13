@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>GMAB8JA3P4HT.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\3\GMAB8JA3P4HT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>98</ymin>
+			<xmax>402</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>
