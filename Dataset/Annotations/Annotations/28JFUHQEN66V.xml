@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>28JFUHQEN66V.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\3\28JFUHQEN66V.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>28</ymin>
+			<xmax>500</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

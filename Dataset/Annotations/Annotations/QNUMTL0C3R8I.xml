@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>QNUMTL0C3R8I.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\5\QNUMTL0C3R8I.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>272</ymin>
+			<xmax>450</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

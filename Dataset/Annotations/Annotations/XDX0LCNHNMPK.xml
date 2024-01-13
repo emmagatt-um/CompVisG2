@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>XDX0LCNHNMPK.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\5\XDX0LCNHNMPK.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>65</ymin>
+			<xmax>532</xmax>
+			<ymax>907</ymax>
+		</bndbox>
+	</object>
+</annotation>

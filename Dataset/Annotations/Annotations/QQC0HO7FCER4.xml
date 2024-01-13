@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>QQC0HO7FCER4.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\4\QQC0HO7FCER4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>73</ymin>
+			<xmax>381</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

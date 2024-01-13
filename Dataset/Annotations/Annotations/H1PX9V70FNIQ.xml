@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>H1PX9V70FNIQ.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\3\H1PX9V70FNIQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>65</ymin>
+			<xmax>366</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

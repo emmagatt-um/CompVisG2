@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>TJMF2KZH80NH.jpg</filename>
+	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\4\TJMF2KZH80NH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>55</ymin>
+			<xmax>431</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
