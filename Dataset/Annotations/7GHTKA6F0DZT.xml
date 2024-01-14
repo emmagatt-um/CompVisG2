@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Pizza</folder>
 	<filename>7GHTKA6F0DZT.jpg</filename>
-	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\1\Pizza\7GHTKA6F0DZT.jpg</path>
+	<path>..\Dataset\1\Pizza\7GHTKA6F0DZT.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,42 @@
 			<ymin>24</ymin>
 			<xmax>64</xmax>
 			<ymax>64</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>28</ymin>
+			<xmax>47</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>49</ymin>
+			<xmax>44</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>43</ymin>
+			<xmax>64</xmax>
+			<ymax>55</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Pizza</folder>
 	<filename>6AHQM9GP3O1R.jpg</filename>
-	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\1\Pizza\6AHQM9GP3O1R.jpg</path>
+	<path>..\Dataset\1\Pizza\6AHQM9GP3O1R.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>29</ymin>
 			<xmax>64</xmax>
 			<ymax>62</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>basil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>27</ymin>
+			<xmax>59</xmax>
+			<ymax>45</ymax>
 		</bndbox>
 	</object>
 </annotation>

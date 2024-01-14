@@ -1,7 +1,7 @@
 <annotation>
 	<folder>3</folder>
 	<filename>FVI14CWN4UAM.jpg</filename>
-	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\3\FVI14CWN4UAM.jpg</path>
+	<path>..\Dataset\3\FVI14CWN4UAM.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

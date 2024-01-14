@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Pizza</folder>
 	<filename>8L0XOJFE5CEW.jpg</filename>
-	<path>C:\Users\emcys\Desktop\Uni\Year 3\Computer Vision\Dataset\1\Pizza\8L0XOJFE5CEW.jpg</path>
+	<path>..\Dataset\1\Pizza\8L0XOJFE5CEW.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>15</ymin>
 			<xmax>40</xmax>
 			<ymax>55</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepperoni</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>18</ymin>
+			<xmax>19</xmax>
+			<ymax>54</ymax>
 		</bndbox>
 	</object>
 </annotation>
