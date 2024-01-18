@@ -1,0 +1,5 @@
+train: Processed_Images/images/train  
+val: Processed_Images/images/val 
+test: Processed_Images/images/test  
+nc: 14
+names: ['basil', 'beef', 'dw', 'ham', 'hamburger', 'olive', 'olives', 'onion', 'pepper', 'pepperoni', 'pesto', 'pineapple', 'pizza', 'soup']
