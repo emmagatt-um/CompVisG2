@@ -1,0 +1,20 @@
+path: '../pizza-2/'
+train: 'train/images'
+val: 'valid/images'
+
+# class names 
+names:
+  0: 'basil'
+  1: 'beef'
+  2:  'dw'
+  3: 'ham'
+  4:  'hamburger'
+  5: 'olive'
+  6: 'olives'
+  7: 'onion' 
+  8: 'pepper'
+  9: 'pepperoni'
+  10:  'pesto'
+  11: 'pineapple' 
+  12: 'pizza' 
+  13: 'soup'
